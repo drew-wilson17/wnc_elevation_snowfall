@@ -1,0 +1,99 @@
+{
+"type": "FeatureCollection",
+"name": "snowfall_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "avg_snowfa": 25, "name": "Boone" }, "geometry": { "type": "Point", "coordinates": [
+    -81.68123918716111,
+    36.21550635558019
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 14, "name": "West_Jefferson" }, "geometry": { "type": "Point", "coordinates": [
+    -81.49680532835531,
+    36.40685537763683
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 54, "name": "Grandfather_Mtn" }, "geometry": { "type": "Point", "coordinates": [
+    -81.80446782376553,
+    36.110908451273815
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 39, "name": "Banner_Elk" }, "geometry": { "type": "Point", "coordinates": [
+    -81.8751045768777,
+    36.16101092573949
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 16, "name": "Spruce_Pine" }, "geometry": { "type": "Point", "coordinates": [
+    -82.0765143110023,
+    35.91134407030145
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 92, "name": "Mt_Mitchell" }, "geometry": { "type": "Point", "coordinates": [
+    -82.2634501022039,
+    35.76430148448479
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 13, "name": "Burnsville" }, "geometry": { "type": "Point", "coordinates": [
+    -82.3006093851313,
+    35.91561158036818
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 20, "name": "Mars_Hill" }, "geometry": { "type": "Point", "coordinates": [
+    -82.54691564762135,
+    35.82641577844001
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 13, "name": "Asheville" }, "geometry": { "type": "Point", "coordinates": [
+    -82.56779996393423,
+    35.590815716671216
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 8, "name": "Hendersonville" }, "geometry": { "type": "Point", "coordinates": [
+    -82.459503514142,
+    35.31454350481509
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 64, "name": "Beech_Mtn" }, "geometry": { "type": "Point", "coordinates": [
+    -81.8842334077464,
+    36.19912559906807
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 7, "name": "Black_Mtn" }, "geometry": { "type": "Point", "coordinates": [
+    -82.32855117454392,
+    35.60901728422748
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 10, "name": "Waynesville" }, "geometry": { "type": "Point", "coordinates": [
+    -82.99802913091267,
+    35.48767760232376
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 8, "name": "Brevard" }, "geometry": { "type": "Point", "coordinates": [
+    -82.73845349189499,
+    35.2313418538167
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 12, "name": "Highlands" }, "geometry": { "type": "Point", "coordinates": [
+    -83.21261453933283,
+    35.04830122758122
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 7, "name": "Cherokee" }, "geometry": { "type": "Point", "coordinates": [
+    -83.32464621080867,
+    35.4761209840166
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 4, "name": "Murphy" }, "geometry": { "type": "Point", "coordinates": [
+    -84.02857915126737,
+    35.08583083363537
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 7, "name": "Sylva" }, "geometry": { "type": "Point", "coordinates": [
+    -83.22308712609015,
+    35.36965614387441
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 15, "name": "Sparta" }, "geometry": { "type": "Point", "coordinates": [
+    -81.12654458612404,
+    36.50508570971327
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 6, "name": "Robbinsville" }, "geometry": { "type": "Point", "coordinates": [
+    -83.80399857447998,
+    35.319977724080985
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 4, "name": "Hayesville" }, "geometry": { "type": "Point", "coordinates": [
+    -83.81254507352892,
+    35.03899456841344
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 35, "name": "Newfound_Gap" }, "geometry": { "type": "Point", "coordinates": [
+    -83.42521493769667,
+    35.61071167691148
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 12, "name": "Maggie_Valley" }, "geometry": { "type": "Point", "coordinates": [
+    -83.10094228373606,
+    35.51760488222966
+  ] } }
+]
+}
