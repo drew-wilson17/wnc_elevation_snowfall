@@ -7,6 +7,10 @@
     -81.68123918716111,
     36.21550635558019
   ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 65, "name": "Hatley_Pointe" }, "geometry": { "type": "Point", "coordinates": [
+    -82.50885,
+    35.95515
+  ] } },
 { "type": "Feature", "properties": { "avg_snowfa": 14, "name": "West_Jefferson" }, "geometry": { "type": "Point", "coordinates": [
     -81.49680532835531,
     36.40685537763683
