@@ -11,6 +11,14 @@
     -82.50885,
     35.95515
   ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 11, "name": "Lake_Toxaway" }, "geometry": { "type": "Point", "coordinates": [
+    -82.9340,
+    35.1323
+  ] } },
+{ "type": "Feature", "properties": { "avg_snowfa": 9, "name": "Fletcher" }, "geometry": { "type": "Point", "coordinates": [
+    -82.5379,
+    35.4349
+  ] } },
 { "type": "Feature", "properties": { "avg_snowfa": 14, "name": "West_Jefferson" }, "geometry": { "type": "Point", "coordinates": [
     -81.49680532835531,
     36.40685537763683
