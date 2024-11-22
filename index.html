@@ -117,7 +117,7 @@
       .catch(error => console.error('Error loading GeoJSON:', error));
 
     // 6. Set function for color ramp
-    colors = chroma.scale('Greens').colors(5); //we'll use 5 classes of purples
+    colors = chroma.scale('YlGn').colors(5); //we'll use 5 classes of purples
 
     // this function manually defines your choropleth classification system
     //so you'll need to figure out which break points you'd like to use
@@ -177,8 +177,8 @@
         //notice the names of the Airbnb property types listed within the <p> tags at the end of the lines
         div.innerHTML += '<span style="color: #08306b;"><i class="fa-solid fa-snowflake"></i><p>40"+</p></span>';
         div.innerHTML += '<span style="color: #2879b9;"><i class="fa-solid fa-snowflake"></i><p>21 - 40"</p></span>';
-        div.innerHTML += '<span style="color: #6baed6;"><i class="fa-solid fa-snowflake"></i><p><11 - 20"</p></span>';
-        div.innerHTML += '<span style="color: #c6dbef;"><i class="fa-solid fa-snowflake"></i><p><0 - 10"</p></span>';
+        div.innerHTML += '<span style="color: #6baed6;"><i class="fa-solid fa-snowflake"></i><p>11 - 20"</p></span>';
+        div.innerHTML += '<span style="color: #c6dbef;"><i class="fa-solid fa-snowflake"></i><p>0 - 10"</p></span>';
         // Return the Legend div containing the HTML content
         return div;
     };
